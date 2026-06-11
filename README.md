@@ -1,1 +1,1 @@
-# thank-you-clinic
+# place-thank-you-clinic
